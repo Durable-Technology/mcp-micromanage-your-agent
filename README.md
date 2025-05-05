@@ -1,4 +1,5 @@
 [![npm](https://img.shields.io/npm/v/@yodakeisuke/mcp-micromanage)](https://www.npmjs.com/package/@yodakeisuke/mcp-micromanage)
+[![Smithery Badge](https://smithery.ai/badge/@Durable-Technology/mcp-micromanage)](https://smithery.ai/server/@Durable-Technology/mcp-micromanage)
 
 # mcp-micromanage
 
@@ -38,6 +39,14 @@ The project includes a React-based visualization tool that provides:
 - Zoom and pan capabilities
 
 ## Getting Started
+
+### Installing via Smithery
+
+To install Micromanage Development Task Manager for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@Durable-Technology/mcp-micromanage):
+
+```bash
+npx -y @smithery/cli install @Durable-Technology/mcp-micromanage --client claude
+```
 
 ### Headless（mcp tool only）
 
